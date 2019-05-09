@@ -23,3 +23,7 @@
     border-radius: 50px;
     color: white;
 }
+
+.btn-primary:hover {
+  background-color: #17b76d;
+}
